@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+}
+
+button,
+input{
+  padding: 5px;
+  margin: 10px;
+}
+
+.cross{
+  text-decoration: line-through;
+}
+
+.normal{
+  color: brown;
+}
